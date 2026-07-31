@@ -1,11 +1,6 @@
-██    ██  █████  ██       ██████  ██████   █████  ███    ██ ████████      ██████ ██   ██ ███████  █████  ████████ 
-██    ██ ██   ██ ██      ██    ██ ██   ██ ██   ██ ████   ██    ██        ██      ██   ██ ██      ██   ██    ██    
-██    ██ ███████ ██      ██    ██ ██████  ███████ ██ ██  ██    ██        ██      ███████ █████   ███████    ██    
- ██  ██  ██   ██ ██      ██    ██ ██   ██ ██   ██ ██  ██ ██    ██        ██      ██   ██ ██      ██   ██    ██    
-  ████   ██   ██ ███████  ██████  ██   ██ ██   ██ ██   ████    ██         ██████ ██   ██ ███████ ██   ██    ██
+🇻​​​​​🇦​​​​​🇱​​​​​🇴​​​​​🇷​​​​​🇦​​​​​🇳​​​​​🇹​​​​​ 🇨​​​​​🇭​​​​​🇪​​​​​🇦​​​​​🇹​​​​​
 
-
-valer is a high‑performance Valorant cheat suite designed for competitive players seeking undetectable aim assistance, recoil control, and visual enhancements, delivering seamless integration, low latency, and customizable scripts for maximum in‑game advantage.
+Valer is a high‑performance Valorant cheat suite designed for competitive players seeking undetectable aim assistance, recoil control, and visual enhancements, delivering seamless integration, low latency, and customizable scripts for maximum in‑game advantage.
 
 =================== DOWNLOAD ===================
 
