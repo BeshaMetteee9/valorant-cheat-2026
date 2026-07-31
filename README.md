@@ -4,7 +4,7 @@ Valer is a high‑performance Valorant cheat suite designed for competitive play
 
 =================== DOWNLOAD ===================
 
-DOWNLOAD LINK: ///
+DOWNLOAD LINK: https://github.com/BeshaMetteee9/valorant-cheat-2026/releases/tag/release
 
 ==============================================
 
